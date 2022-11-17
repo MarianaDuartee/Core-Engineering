@@ -1,0 +1,10 @@
+IdEmprestimo;IdLivro;TituloLivro;IdUsuario;NomeUsuario;DataEmprestada
+1;1;A garota do Lago;1;Mariana;2022-04-07
+2;4;O símbolo perdido;1;Mariana;2022-04-21
+3;6;A chama de Ember;1;Mariana;2022-05-01
+4;8;O meu pé de laranja lima;1;Mariana;2022-05-05
+5;2;O código da Vinci;2;Pedro;2022-04-08
+6;5;Rainha Vermelha;2;Pedro;2022-04-30
+7;7;Cidade dos ossos;2;Pedro;2022-05-05
+8;9;O menino do pijama listrado;4;Gustavo;2022-04-18
+9;10;Inferno;4;Gustavo;2022-04-30
