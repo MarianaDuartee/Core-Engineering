@@ -58,4 +58,3 @@ Sistema de banco onde é possível apenas depositar dinheiro e sacar dinheiro, e
 
 ## Tema 16: Decorator (Desing Pattern Estruturais)
 Programa que possui uma classe que é a base de uma pizza (preço 20 reais), um decorador para adicionar queijo (preço 3 reais) e outro decorator para adicionar bacon (preço 3,5). A classe main, usa as classe criadas para montar uma pizza de bacon com o dobro de queijo.
-
